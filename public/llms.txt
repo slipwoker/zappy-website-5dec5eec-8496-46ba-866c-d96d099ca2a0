@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://letro-pc-5dec5eec.zappy5.app
+https://example.com
 גלה עולם של גיימינג ללא גבולות עם ציוד ואביזרים שמרימים כל סשן. מ-Xbox Cloud Gaming ועד Elder Scrolls Online, הצטרף למותג שנולד בשביל הגיימרים האמיתיים. התחל לנצח עכשיו!
 
 ### אודות
-https://letro-pc-5dec5eec.zappy5.app/about
+https://example.com/about
 הכירו את Letro pc – המותג שבנה את עצמו על אהבה אמיתית לעולם הגיימינג. אנחנו חיים ונושמים Elder Scrolls Online, Xbox Cloud Gaming וכל מה שביניהם. בואו לשמוע למה אנחנו שונים.
 
 ### קהילה
-https://letro-pc-5dec5eec.zappy5.app/community
+https://example.com/community
 הצטרף לקהילת הגיימינג הסוערת של Letro pc. דיונים על Xbox Cloud Gaming, טיפים ל-Elder Scrolls Online והרבה מעבר – זה המקום שבו גיימרים הופכים לאגדות. קח חלק עכשיו!
 
 ### צור קשר
-https://letro-pc-5dec5eec.zappy5.app/contact
+https://example.com/contact
 יש לך שאלה על Xbox Cloud Gaming או שאתה מוכן לקחת את חוויית ה-Elder Scrolls Online לשלב הבא? צור קשר עם Letro pc – אנחנו כאן כדי להפוך כל משחק לבלתי נשכח. כתוב לנו עוד היום!
 
 ### Products
-https://letro-pc-5dec5eec.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - Letro pc
 
 ### Cart
-https://letro-pc-5dec5eec.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://letro-pc-5dec5eec.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://letro-pc-5dec5eec.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://letro-pc-5dec5eec.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://letro-pc-5dec5eec.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://letro-pc-5dec5eec.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - Letro pc
 
 ### Category
-https://letro-pc-5dec5eec.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - Letro pc
 
 ### תודה שפניתם אלינו | Letro pc
-https://letro-pc-5dec5eec.zappy5.app/thank-you
+https://example.com/thank-you
 Letro pc - תודה שפניתם אלינו | Letro pc
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://letro-pc-5dec5eec.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://letro-pc-5dec5eec.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://letro-pc-5dec5eec.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -97,8 +97,8 @@ Gaming
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://letro-pc-5dec5eec.zappy5.app/sitemap.xml
-- Robots: https://letro-pc-5dec5eec.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://letro-pc-5dec5eec.zappy5.app/llms-full.txt
-- Products (JSON): https://letro-pc-5dec5eec.zappy5.app/products.json
-- Products (Google Merchant RSS): https://letro-pc-5dec5eec.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
